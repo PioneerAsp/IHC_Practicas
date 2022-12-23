@@ -1,2 +1,2 @@
 # IHC_Practicas
-Repositoriodonde guardaré las prácticas de laboratorio.
+Registro de practicas de laboratorio de Unity.
